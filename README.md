@@ -1,2 +1,2 @@
 # HRManager
-If you somehow went there.
+This is the Hexa Runners Manager stuff, idk how u got there anyway :sob:
