@@ -1,10 +1,12 @@
 {
-  "latestVersion": "1.0.0",
-  "minimumRequiredBuild": 1,
+  "OlderVersion": "0.1",
+  "NewerVersion": "7.0",
   "forceUpdateEnabled": false,
   "updateUrl": "https://www.meta.com/experiences/your-app-id",
+
   "lockdownActive": false,
   "lockdownSceneName": "LockdownScene",
+
   "showMotd": true,
-  "motdMessage": "Welcome to the game! Check out our Discord for update news!"
+  "motdMessage": "The game is back!"
 }
