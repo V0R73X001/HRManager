@@ -2,11 +2,11 @@
   "OlderVersion": "0.1",
   "NewerVersion": "7.0",
   "forceUpdateEnabled": false,
-  "updateUrl": "https://www.meta.com/experiences/your-app-id",
+  "updateSceneName": "OldVersionScene",
 
   "lockdownActive": false,
   "lockdownSceneName": "LockdownScene",
 
   "showMotd": true,
-  "motdMessage": "The game is back!"
+  "motdMessage": "The game is finally back!"
 }
