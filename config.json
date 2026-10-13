@@ -3,7 +3,7 @@
   "OlderVersionNumber": "0.1",
   "NewerVersion": "6.7",
   "forceUpdateEnabled": true,
-  "lockdownActive": false,
+  "lockdownActive": true,
   "lockdownSceneName": "LockdownScene",
   "showMotd": true,
   "motdMessage": "Welcome to the game!"
