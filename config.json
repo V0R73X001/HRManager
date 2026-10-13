@@ -5,6 +5,6 @@
   "forceUpdateEnabled": false,
   "lockdownActive": false,
   "lockdownSceneName": "LockdownScene",
-  "showMotd": false,
+  "showMotd": true,
   "motdMessage": "The game is finally back!"
 }
