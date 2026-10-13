@@ -1,10 +1,10 @@
 {
   "OlderVersionScene": "OldVersionScene",
   "OlderVersionNumber": "0.1",
-  "NewerVersion": "6.7",
-  "forceUpdateEnabled": false,
-  "lockdownActive": true,
+  "NewerVersion": "1.0",
+  "forceUpdateEnabled": true,
+  "lockdownActive": false,
   "lockdownSceneName": "LockdownScene",
   "showMotd": true,
-  "motdMessage": "The game is finally back!"
+  "motdMessage": "Welcome to the game!"
 }
