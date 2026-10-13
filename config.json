@@ -4,7 +4,7 @@
   "NewerVersion": "6.7",
   "forceUpdateEnabled": false,
 
-  "lockdownActive": true,
+  "lockdownActive": false,
   "lockdownSceneName": "LockdownScene",
 
   "showMotd": true,
