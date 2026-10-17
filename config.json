@@ -3,7 +3,7 @@
   "OlderVersionNumber": "0.1",
   "NewerVersion": "6.7",
   "forceUpdateEnabled": true,
-  "lockdownActive": true,
+  "lockdownActive": false,
   "lockdownSceneName": "LockdownScene",
   "showMotd": true,
   "motdMessage": "We are so sorry the game had to be on shutdown due to modders but we are finally back!"
