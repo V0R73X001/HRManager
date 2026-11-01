@@ -1,7 +1,7 @@
 {
   "OlderVersionScene": "OldVersionScene",
   "OlderVersionNumber": "0.1",
-  "NewerVersion": "7.2",
+  "NewerVersion": "7.3",
   "forceUpdateEnabled": true,
   "lockdownActive": false,
   "lockdownSceneName": "LockdownScene",
