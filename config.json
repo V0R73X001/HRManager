@@ -1,10 +1,10 @@
 {
   "OlderVersionScene": "OldVersionScene",
   "OlderVersionNumber": "0.1",
-  "NewerVersion": "7.0",
+  "NewerVersion": "7.2",
   "forceUpdateEnabled": true,
   "lockdownActive": false,
   "lockdownSceneName": "LockdownScene",
   "showMotd": true,
-  "motdMessage": "At October 31, there is gonna be something special.. An treat or treat event! Make sure to be there! :)"
+  "motdMessage": "Trick or treat event is finally there! Have fun."
 }
